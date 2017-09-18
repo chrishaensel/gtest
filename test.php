@@ -12,4 +12,8 @@ class Fck {
         return new stdClass();
     }
 
+	public function myCoolNewfeature() {
+		return true;
+    }
+
 }
